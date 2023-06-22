@@ -1,4 +1,5 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/levysoft/python_eliza/blob/main/LICENSE)
+[![GitHub branches](https://badgen.net/github/branches/levysoft/python_eliza)](https://github.com/levysoft/python_eliza/)
 
 ## Python Eliza
 Versione alternativa in Python di ELIZA in lingua italiana
