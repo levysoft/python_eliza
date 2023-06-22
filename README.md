@@ -1,4 +1,4 @@
-# python_eliza
+## README
 Versione alternativa in Python di ELIZA
 
 ## Eliza - Simulazione di uno psicologo rogeriano
