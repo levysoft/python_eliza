@@ -1,5 +1,5 @@
 ## README
-Versione alternativa in Python di ELIZA
+Versione alternativa in Python di ELIZA in lingua italiana
 
 ## Eliza - Simulazione di uno psicologo rogeriano
 
@@ -43,6 +43,13 @@ Interessante, parlami del tuo progetto.
 
 Arrivederci. È stato piacevole parlare con lei.
 
+### Requisiti
+
+Questo programma non richiede l'installazione di moduli aggiuntivi per funzionare ed è stato testato su Python 3.6 e versioni successive.
+
 ### Limiti
 
 Questo programma è stato creato come esperimento e non deve essere utilizzato come sostituto della consulenza professionale da parte di un medico o di uno psicologo. Inoltre, non è in grado di fornire risposte personalizzate o adattarsi alle necessità specifiche di ogni utente.
+
+### Licenza
+Il codice sorgente è rilasciato con licenza MIT, il che significa che è possibile utilizzarlo liberamente per scopi personali o commerciali senza alcuna restrizione. Tuttavia, si prega di notare che l'autore non si assume alcuna responsabilità per eventuali danni causati dall'utilizzo di questo software.
